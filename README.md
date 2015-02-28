@@ -4,7 +4,7 @@ I hacked a toy robot to control it with my brain:
 
 Here's a little video :-)
 
-![Mind Controlled Robot](http://img.youtube.com/vi/zlUZ6bhUcBk/0.jpg)](http://www.youtube.com/embed/zlUZ6bhUcBk)
+[![Mind Controlled Robot](http://img.youtube.com/vi/zlUZ6bhUcBk/0.jpg)](http://www.youtube.com/embed/zlUZ6bhUcBk)
 
 The EEG headset I am using to analyze my brainwaves is the Neurosky Mindwave Mobile.
 
